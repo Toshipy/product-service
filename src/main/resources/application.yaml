@@ -11,3 +11,5 @@ spring:
     database-platform: org.hibernate.dialect.MySQL57InnoDBDialect
     hibernate:
       ddl-auto: update
+  application:
+    name: PRODUCT-SERVICE
